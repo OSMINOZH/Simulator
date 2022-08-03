@@ -1,5 +1,6 @@
 # Simulator
 Published pre-release
+------------------------------------------------
 Major version on this moment - (0.7.2-alpha)
 ------------------------------------------------
 ![Ilustration to project](https://github.com/OSMINOZH/Simulator/blob/main/Screnshots/2022-08-03_18-24-04.png)
